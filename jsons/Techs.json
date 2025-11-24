@@ -828,7 +828,7 @@
 			}
 			{
 				"name": "New Gen Naval Engineering",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Quantum Computing Technology (Level 0)","Pharmaceuticals III"],
 				"quote": "The ocean remains the last great frontier — and the first battlefield of tomorrow."
 			}
