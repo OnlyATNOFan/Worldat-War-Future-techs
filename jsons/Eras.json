@@ -240,7 +240,7 @@
 	{ // Technically, this Era doesn't exist in the original game.
 	  // But as it is _really_ usefull to have for testing, I'd like to keep it.
 	  // The stats are just copy-pasted from the information era.
-		"name": "Collapse Era",
+		"name": "Collapse era",
 		"researchAgreementCost": 400,
 		"startingSettlerCount": 3,
 		"startingWorkerCount": 3,
