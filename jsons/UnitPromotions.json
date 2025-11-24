@@ -413,7 +413,7 @@
 				"name": "Jungle Specialisation I",
 				"uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"],
 				"unitTypes": ["Anti Cavalry","Sword","Gunpowder"],
-		"column": 40,
+		"column": 45,
 		"row": 1
 		},
 		{
@@ -421,7 +421,7 @@
 				"prerequisites": ["Jungle Specialisation I"],
 				"uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"],
 				"unitTypes": ["Anti Cavalry","Sword","Gunpowder"],
-		"column": 40,
+		"column": 45,
 		"row": 2
 		},
 		{
@@ -429,7 +429,7 @@
 				"prerequisites": ["Jungle Specialisation II"],
 				"uniques": ["[+30]% Strength <when fighting in [Jungle] tiles>","[-40]% Strength <when fighting in [Open terrain] tiles> <before adopting [Veteran]>","Double movement in [Jungle]","[+25]% XP gained from combat"],
 				"unitTypes": ["Anti Cavalry","Sword","Gunpowder"],
-		"column": 40,
+		"column": 45,
 		"row": 3
 		},
 		{
