@@ -252,7 +252,7 @@
 	{
 		"name": "Prickly Pear",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Scrub"],
+		"terrainsCanBeFoundOn": ["Desert"],
 		"gold": 2,
 		"food": 1,
 		"improvement": "Plantation",
