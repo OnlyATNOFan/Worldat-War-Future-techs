@@ -59,7 +59,7 @@
 		"production": 1,
 		"culture": 4,
 		"gold": 2,
-		"requiredTech": "Printing",
+		"requiredTech": "Printing Press",
 		"requiredBuilding": "City Hall",
 		"uniques": ["[+15]% [Gold] [in this city]"],
 		"cost": 200
