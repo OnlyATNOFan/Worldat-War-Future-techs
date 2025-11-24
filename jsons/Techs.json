@@ -851,7 +851,7 @@
 	},
 	{
 		"columnNumber": 23,
-		"era": "Collapse Era",
+		"era": "Collapse era",
 		"techCost": 27500,
 		"buildingCost": 900,
 		"wonderCost": 2400,
@@ -884,7 +884,7 @@
 	},
 	{
 		"columnNumber": 24,
-		"era": "Collapse Era",
+		"era": "Collapse era",
 		"techCost": 30000,
 		"buildingCost": 1000,
 		"wonderCost": 2700,
@@ -917,7 +917,7 @@
 	},
 	{
 		"columnNumber": 25,
-		"era": "Collapse Era",
+		"era": "Collapse era",
 		"techCost": 32500,
 		"buildingCost": 1100,
 		"wonderCost": 3000,
@@ -956,7 +956,7 @@
 	},
 	{
 		"columnNumber": 25,
-		"era": "Collapse Era",
+		"era": "Collapse era",
 		"techCost": 35000,
 		"buildingCost": 1200,
 		"wonderCost": 4000,
