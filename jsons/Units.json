@@ -1694,7 +1694,7 @@
 		"unitType": "Medical",
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Printing Press",
-		"upgradesTo": "Medic",
+		"upgradesTo": "Plague Medic",
 		"uniques": ["All adjacent units heal [+8] HP when healing"],
 		"strength": 15,
 		"movement": 2,
