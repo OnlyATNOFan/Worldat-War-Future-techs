@@ -733,7 +733,7 @@
 	},
 	{
 		"columnNumber": 18,
-		"era": "Digital Era",
+		"era": "Digital era",
 		"techCost": 15000,
 		"buildingCost": 700,
 		"wonderCost": 1500,
@@ -760,7 +760,7 @@
 	},
 	{
 		"columnNumber": 19,
-		"era": "Digital Era",
+		"era": "Digital era",
 		"techCost": 17500,
 		"buildingCost": 700,
 		"wonderCost": 1500,
@@ -781,7 +781,7 @@
 	},
 	{
 		"columnNumber": 20,
-		"era": "Digital Era",
+		"era": "Digital era",
 		"techCost": 20000,
 		"buildingCost": 600,
 		"wonderCost": 1700,
@@ -802,7 +802,7 @@
 	},
 	{
 		"columnNumber": 21,
-		"era": "Digital Era",
+		"era": "Digital era",
 		"techCost": 22500,
 		"buildingCost": 700,
 		"wonderCost": 2000,
@@ -836,7 +836,7 @@
 	},
 	{
 		"columnNumber": 22,
-		"era": "Digital Era",
+		"era": "Digital era",
 		"techCost": 25000,
 		"buildingCost": 800,
 		"wonderCost": 2100,
