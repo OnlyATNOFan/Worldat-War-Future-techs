@@ -114,7 +114,7 @@
 		"production": 6,
 		"culture": 10,
 		"gold": 7,
-		"requiredTech": "Artificial Intelligence Advance",
+		"requiredTech": "Artificial Inteligence Advance",
 		"requiredBuilding": "Digital Management Center",
 		"uniques": ["[+40]% [Gold] [in this city]","[+30]% Production when constructing [Buildings] buildings [in this city]","[+25]% [Culture] [in this city]"],
 		"cost": 1100
