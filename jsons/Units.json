@@ -2958,7 +2958,7 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+30]% Strength <vs [Armored] units>","No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "",
+		"upgradesTo": "Modern Helicopter Gunship",
 		"obsoleteTech": "Lasers",
 		"attackSound": "machinegun"
 	},
@@ -2971,7 +2971,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+30]% Strength <vs [Armored] units>","No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "",
+		"upgradesTo": "Neo-Helicopter Gunship",
 		"obsoleteTech": "New Gen Aeronautics Engineering",
 		"attackSound": "machinegun"
 	},
@@ -2984,7 +2984,7 @@
 		"requiredTech": "New Gen Aeronautics Engineering",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+30]% Strength <vs [Armored] units>","No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "",
+		"upgradesTo": "Autonomous Strike Helicopter",
 		"obsoleteTech": "Autonomous Drones",
 		"attackSound": "machinegun"
 	},
