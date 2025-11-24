@@ -1646,7 +1646,7 @@
 		"strength": 300,
 		"cost": 1800,
 		"requiredTech": "Artificial Inteligence Advance",
-		"upgradesTo": "Giant Death Robot IIi",
+		"upgradesTo": "Giant Death Robot III",
 		"obsoleteTech": "FTL",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
