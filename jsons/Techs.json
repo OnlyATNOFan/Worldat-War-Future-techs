@@ -725,7 +725,7 @@
 			},
 			{
 				"name": "Pharmaceuticals II",
-				"row": 11,
+				"row": 9,
 				"prerequisites": ["Globalization", "Particle Physics", "Nanotechnology"], 
 				"quote": "Medicine is a science of uncertainty and an art of probability. - William Osler"
 			}
@@ -810,7 +810,7 @@
 
 			{
 				"name": "New Gen Ballistics",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Quantum Computing Technology (Level 0)","Pharmaceuticals III"],
 				"quote": "Precision is the essence of modern warfare. - Unknown"
 			},
@@ -964,7 +964,7 @@
 			{
 				"name": "FTL",
 				"row": 4,
-				"prerequisites": ["Artificial Superconductor", "Stealth II", "Ecology II", "New Gen Comunications II"],
+				"prerequisites": ["Artificial Superconductor", "Pharmaceuticals IV", "Stealth II", "Ecology II", "New Gen Comunications II"],
 				"quote": "We are made of star-stuff. We are a way for the universe to know itself. – Carl Sagan"
 			}
 		]
