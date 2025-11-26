@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Community Park",
+		"happiness": 3,
+		"culture": 1,
+		"requiredTech": "Agriculture",
+		"cost": 45
+	},
+	{
 		"name": "Potter's Hut",
 		"happiness": 1,
 		"culture": 1,
