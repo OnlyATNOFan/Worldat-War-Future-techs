@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Wooden Palisade",
+		"cost": 40,
+		"maintenance": 1,
+		"cityStrength": 2,
+		"cityHealth": 5,
+		"uniques": ["Destroyed when the city is captured","New [Military] units start with [+5] XP [in this city]"]
+		"requiredTech": "Agriculture"
+	},
+	{
 		"name": "Community Park",
 		"happiness": 3,
 		"culture": 1,
