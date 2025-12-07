@@ -1514,7 +1514,7 @@
 		"strength": 85,
 		"cost": 500,
 		"requiredTech": "Support Drone Tactics",
-		"obsoleteTech": "Support Drone Tactics",
+		"obsoleteTech": "Stealth II",
 		"upgradesTo": "Collapse Commando",
 		"uniques": ["[+100]% Strength <vs cities>", "All tiles cost 1 movement", "May Paradrop up to [7] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shots"
@@ -1525,7 +1525,7 @@
 		"movement": 3,
 		"strength": 100,
 		"cost": 600,
-		"requiredTech": "Support Drone Tactics",
+		"requiredTech": "Stealth II",
 		"uniques": ["[+100]% Strength <vs cities>", "All tiles cost 1 movement", "May Paradrop up to [7] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shots"
 	},
