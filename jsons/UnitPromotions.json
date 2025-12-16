@@ -804,5 +804,10 @@
 		{
 				"name": "Iron Curtain Force Field",
 				"uniques": ["[+50]% Strength <when defending>"]
+		},
+		{
+			"name": "Piracy",
+			"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Gold]", "Earn [+15]% of killed [Military] unit's [Strength] as [Science]", "Heals [+10] damage if it kills a Unit", "May capture killed [Water] units", "[+50]% XP gained from combat"],
+			"unitTypes": ["Melee Water","Naval Melee"]
 		}
 ]
