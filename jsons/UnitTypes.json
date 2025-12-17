@@ -97,7 +97,11 @@
 		"uniques": ["[-20]% Strength <vs [Infantry] units>"],
 		"movementType": "Land",
 	},
-
+        {
+                "name": "Cavalry Militia",
+        "uniques": ["[+50]% to Flank Attack bonuses", "[+50]% Strength when stacked with [Civilian]"],
+                "movementType": "Land"
+        },
 	//specialist
 
 	{
