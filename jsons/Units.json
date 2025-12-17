@@ -2629,7 +2629,7 @@
 	//Militia cav
 	{
 		"name": "Hunters",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 4,
 		"strength": 7,
 		"cost": 25,
@@ -2641,7 +2641,7 @@
 	},
 	{
 		"name": "Donkey Rider",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 13,
 		"cost": 40,
@@ -2653,7 +2653,7 @@
 	},
 	{
 		"name": "Mounted Hunter",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 12,
 		"cost": 60,
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"name": "Cowboy",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 23,
 		"cost": 75,
@@ -2679,7 +2679,7 @@
 	},
 	{
 		"name": "Improvised Gun Car",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 37,
 		"cost": 125,
@@ -2692,7 +2692,7 @@
 	},
 	{
 		"name": "Motorized Militia",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 56,
 		"cost": 150,
@@ -2705,7 +2705,7 @@
 	},
 	{
 		"name": "Mechanized Militia",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 72,
 		"cost": 160,
@@ -2718,7 +2718,7 @@
 	},
 	{
 		"name": "Digital Mechanized Militia",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 94,
 		"cost": 170,
@@ -2731,7 +2731,7 @@
 	},
 	{
 		"name": "Mechanized Paramilitary",
-		"unitType": "Militia",
+		"unitType": "Cavalry Militia",
 		"movement": 5,
 		"strength": 111,
 		"cost": 190,
