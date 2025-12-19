@@ -47,65 +47,65 @@
 			}
 		]
 	},
-    {
-        "name": "Fundamentalism",
-        "era": "Medieval era",
-        "priorities": {
-            "Neutral": 15,
-            "Cultural": 50,
-            "Diplomatic": 5,
-            "Domination": 110,
-            "Scientific": 5
-        },
-        "uniques": [
-            "Only available <before adopting [Freedom]>"
-        ],
-        "policies": [
-            {
-                "name": "Unquestionable Holy Scriptures",
-                "uniques": [
-                    "[+8 Faith] [in all cities]"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
-                "name": "Religious Fanaticism",
-                "uniques": [
-                    "Provides the cheapest [Culture] building in your first [5] cities for free",
-                    "Earn [10]% of killed [Military] unit's [Strength] as [Gold]",
-                    "Earn [80]% of killed [Military] unit's [Strength] as [Culture]",
-                    "[+15]% Production when constructing [Temple] buildings [in all cities]",
-                    "[+8 Faith] from every [Temple]"
-                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Fanatics Recruitment",
-                "uniques": [
-                    "[+25]% Strength for cities <when attacking>",
-                    "May buy [{Military} {Land}] units with [Faith] for [5] times their normal Production cost <before the [Future era]>",
-                    "May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-                    "[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
-                    "[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-                    "Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
-                    "[+105]% Strength <when attacking> <for [Military] units> <for [175] turns>"
-                ],
-                "requires": ["Sacred Scriptures", "Religious Fanaticism"],
-                "row": 2,
-                "column": 4
-            },
-            {
-                "name": "Fundamentalism Complete",
-                "uniques": [
-                    "[+25]% growth [in all cities]",
-                    "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-                    "[+5]% Production when constructing [All] buildings [in all cities]",
-                    "[+5 Gold, +1 Happiness] per [15] population [in capital]",
-                    "[-45]% maintenance costs <for [All] units>"
-                ]
-            }
-        ]
-    }
+	{
+		"name": "Fundamentalism",
+		"era": "Medieval era",
+		"priorities": {
+			"Neutral": 15,
+			"Cultural": 50,
+			"Diplomatic": 5,
+			"Domination": 110,
+			"Scientific": 5
+		},
+		"uniques": [
+			"Only available <before adopting [Freedom]>","[+1 Happiness] per [2] population [in capital] <in cities with a [your] religion>"
+		],
+		"policies": [
+			{
+				"name": "Unquestionable Holy Scriptures",
+				"uniques": [
+					"[+8 Faith] [in all cities]"
+				],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Religious Fanaticism",
+				"uniques": [
+					"Provides the cheapest [Culture] building in your first [5] cities for free",
+					"Earn [10]% of killed [Military] unit's [Strength] as [Gold]",
+					"Earn [80]% of killed [Military] unit's [Strength] as [Culture]",
+					"[+15]% Production when constructing [Temple] buildings [in all cities]",
+					"[+8 Faith] from every [Temple]"
+				],
+				"row": 1,
+				"column": 4
+			},
+			{
+				"name": "Fanatics Recruitment",
+				"uniques": [
+					"[+25]% Strength for cities <when attacking>",
+					"May buy [{Military} {Land}] units with [Faith] for [5] times their normal Production cost <before the [Future era]>",
+					"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+					"[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+					"[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+					"Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
+					"[+105]% Strength <when attacking> <for [Military] units> <for [175] turns>"
+				],
+				"requires": ["Sacred Scriptures", "Religious Fanaticism"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Fundamentalism Complete",
+				"uniques": [
+					"[+25]% growth [in all cities]",
+					"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+					"[+5]% Production when constructing [All] buildings [in all cities]",
+					"[+5 Gold, +1 Happiness] per [15] population [in capital]",
+					"[-45]% maintenance costs <for [All] units>"
+				]
+			}
+		]
+	},
 ]
