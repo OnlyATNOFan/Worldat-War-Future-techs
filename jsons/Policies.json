@@ -64,7 +64,7 @@
 			{
 				"name": "Unquestionable Holy Scriptures",
 				"uniques": [
-					"[+8 Faith] [in all cities]"
+					"[Faith] cost of purchasing [Religious] units [-25]%","[+8 Faith] [in all cities]"
 				],
 				"row": 1,
 				"column": 2
@@ -75,6 +75,7 @@
 					"Provides the cheapest [Culture] building in your first [5] cities for free",
 					"Earn [10]% of killed [Military] unit's [Strength] as [Gold]",
 					"Earn [80]% of killed [Military] unit's [Strength] as [Culture]",
+					"Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
 					"[+15]% Production when constructing [Temple] buildings [in all cities]",
 					"[+8 Faith] from every [Temple]"
 				],
@@ -85,8 +86,8 @@
 				"name": "Fanatics Recruitment",
 				"uniques": [
 					"[+25]% Strength for cities <when attacking>",
-					"May buy [{Military} {Land}] units with [Faith] for [5] times their normal Production cost <before the [Future era]>",
-					"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+					"May buy [{Militia} {Land}] units with [Faith] for [5] times their normal Production cost after the [Industrial era]>",
+					"May buy [{Militia} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
 					"[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
 					"[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 					"Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
@@ -107,5 +108,5 @@
 				]
 			}
 		]
-	},
+	}
 ]
