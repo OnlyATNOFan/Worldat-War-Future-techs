@@ -64,7 +64,7 @@
 			{
 				"name": "Unquestionable Holy Scriptures",
 				"uniques": [
-					"[Faith] cost of purchasing [Religious] units [-25]%","[+8 Faith] [in all cities]"
+					"[Faith] cost of purchasing [Religious] units [-25]% <in cities with a [your] religion>","[+8 Faith] [in all cities] <in cities with a [your] religion>","[+1 Happiness] per [5] population [in all cities] <in cities with a [your] religion>"
 				],
 				"row": 1,
 				"column": 2
@@ -76,8 +76,8 @@
 					"Earn [10]% of killed [Military] unit's [Strength] as [Gold]",
 					"Earn [80]% of killed [Military] unit's [Strength] as [Culture]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-					"[+15]% Production when constructing [Temple] buildings [in all cities]",
-					"[+8 Faith] from every [Temple]"
+					"[+15]% Production when constructing [Temple] buildings [in all cities] <in cities with a [your] religion>",
+					"[+8 Faith] from every [Temple] <in cities with a [your] religion>","[+8 Culture] [in all cities] <in cities with a [your] religion>",
 				],
 				"row": 1,
 				"column": 4
@@ -86,8 +86,8 @@
 				"name": "Fanatics Recruitment",
 				"uniques": [
 					"[+25]% Strength for cities <when attacking>",
-					"May buy [{Militia} {Land}] units with [Faith] for [5] times their normal Production cost <after the [Industrial era]>",
-					"May buy [{Militia} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+					"May buy [{Militia} {Land}] units with [Faith] for [5] times their normal Production cost <after the [Industrial era]> <in cities with a [your] religion>",
+					"May buy [{Militia} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <in cities with a [your] religion>",
 					"[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
 					"[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 					"Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
