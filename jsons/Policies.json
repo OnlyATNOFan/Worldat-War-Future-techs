@@ -93,9 +93,9 @@
 					"Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
 					"[+105]% Strength <when attacking> <for [Military] units> <for [175] turns>"
 				],
-				"requires": ["Sacred Scriptures", "Religious Fanaticism"],
+				"requires": ["Unquestionable Holy Scriptures", "Religious Fanaticism"],
 				"row": 2,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Fundamentalism Complete",
