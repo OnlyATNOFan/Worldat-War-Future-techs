@@ -287,7 +287,7 @@
 				"Heals [+10] damage if it kills a Unit",
 				"May capture killed [Barbarians] units <with [50]% chance>",
 				"[+25]% XP gained from combat"],
-				"unitTypes": ["Anti Cavalry","Sword","Gunpowder","Mounted","Light Armored","Heavy Armored","Modern Armored","Armored","Militia"],
+				"unitTypes": ["Archery","Ranged Gunpowder","Anti Cavalry","Sword","Gunpowder","Mounted","Light Armored","Heavy Armored","Modern Armored","Armored","Militia"],
 		"column": 39,
 		"row": 2
 		},
