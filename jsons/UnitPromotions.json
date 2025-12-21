@@ -282,10 +282,10 @@
 		},
 		{
 				"name": "Rummage",
-				"uniques": ["Earn [+10]% of killed [Military] unit's [Strength] as [Gold]",
-				"Earn [+5]% of killed [Military] unit's [Strength] as [Science]",
+				"uniques": ["Earn [+50]% of killed [Military] unit's [Strength] as [Gold]",
+				"Earn [+20]% of killed [Military] unit's [Strength] as [Science]",
 				"Heals [+10] damage if it kills a Unit",
-				"May capture killed [Barbarians] units <with [1]% chance>",
+				"May capture killed [Barbarians] units <with [50]% chance>",
 				"[+25]% XP gained from combat"],
 				"unitTypes": ["Anti Cavalry","Sword","Gunpowder","Mounted","Light Armored","Heavy Armored","Modern Armored","Armored","Militia"],
 		"column": 39,
