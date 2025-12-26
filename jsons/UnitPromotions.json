@@ -631,7 +631,7 @@
 				"uniques": ["[+50]% Strength <when attacking>",
 				"[+50]% Strength <vs cities> <when attacking>",
 				"Only available <if [Chemical Weapons Laboratory] is constructed>"],
-				"unitTypes": ["Ranged Gunpowder","Gunpowder","Siege","Water Ranged","Ranged Water"]
+				"unitTypes": ["Ranged Gunpowder","Gunpowder","Siege","Water Ranged","Ranged Water","Bomber","Fighter"]
 		},
 		{
 				"name": "Uniforms",
