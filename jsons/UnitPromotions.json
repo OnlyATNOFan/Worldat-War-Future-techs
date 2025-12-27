@@ -814,7 +814,7 @@
 			"name": "Naval ram",
 			"uniques": ["[+50]% Strength <vs [Water] units>"],
 			"unitTypes": ["Melee Water","Naval Melee"]
-		},,
+		},
 		{
 			"name": "Icebreaker",
 			"uniques": ["Can enter ice tiles"],
