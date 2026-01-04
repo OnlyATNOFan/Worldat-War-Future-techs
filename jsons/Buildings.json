@@ -1,11 +1,13 @@
 [
 	{
-		"name": "Heroic Epic",
-		"cost": 125,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion", "Cost increases by [30] per owned city","[Military] units gain the [Morale] promotion"],
-		"requiredTech": "Iron Working"
+		"name": "Chemical Weapons Laboratory",
+		"science": 4,
+		"cityStrength": 5,
+		"cityHealth": 10,
+		"gold": 1,
+		"cost": 600,
+		"uniques": ["All newly-trained [Gunpowder] units [in this cities] receive the [Chemical Weapons] promotion"]
+		"requiredTech": "Chemical Warfare"
 	},
 	{
 		"name": "Wooden Palisade",
@@ -152,7 +154,7 @@
 		"requiredTech": "Bioengineering",
 		"requiredBuilding": "Autonomous Governance Module",
 		"uniques": ["[+50]% [Gold] [in this city]","[+30]% Production when constructing [Buildings] buildings [in this city]","[+25]% [Culture] [in this city]","[+10]% Great Person generation [in this city]"],
-		"cost": 600
+		"cost": 1600
 	},
 	{
 		"name": "Gym",
@@ -477,6 +479,14 @@
 		"requiredTech": "Bioengineering"
 	},
 	{
+		"name": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion", "Cost increases by [30] per owned city","[Military] units gain the [Morale] promotion"],
+		"requiredTech": "Iron Working"
+	},
+	{
 		"name": "National Television",
 		"isNationalWonder": true,
 		"happiness": 4,
@@ -485,16 +495,5 @@
 		"cost": 1500,
 		"specialistSlots": {"Entertainer":10, "Artist": 5},
 		"requiredTech": "Mass Media"
-	},
-	{
-		"name": "Chemical Weapons Laboratory",
-		"isNationalWonder": true,
-		"science": 4,
-		"cityStrength": 5,
-		"cityHealth": 10,
-		"gold": 1,
-		"cost": 1500,
-		"uniques": ["All newly-trained [Gunpowder] units [in your cities] receive the [Chemical Weapons] promotion"]
-		"requiredTech": "Chemical Warfare"
 	}
 ]
