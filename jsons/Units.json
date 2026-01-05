@@ -23,6 +23,22 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable"]
 	},
+	{
+		"name":"Flag Bearer",
+		"unitType":"Civilian",
+		"requiredTech":"Iron Working",
+		"movement":2,
+		"uniques":["[+10]% Strength bonus for [Military] units within [2] tiles"],
+		"cost": 250
+	},
+	{
+		"name": "Field Commander",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 400,
+		"requiredTech": "Military Science",
+		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles", "Uncapturable", "Only available <if [Military Academy] is constructed>", "[+1] Movement <after discovering [Combined Arms]>", "[+1] Movement <after discovering [Mobile Tactics]>"]
+	},
 	
 	//Great Person
 	{
