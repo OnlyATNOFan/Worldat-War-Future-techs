@@ -28,7 +28,7 @@
 		"unitType":"Civilian",
 		"requiredTech":"Iron Working",
 		"movement":2,
-		"uniques":["[+10]% Strength bonus for [Military] units within [2] tiles"],
+		"uniques":["[+10]% Strength bonus for [Military] units within [2] tiles", "Uncapturable"],
 		"cost": 250
 	},
 	{
