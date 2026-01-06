@@ -262,6 +262,21 @@
 		"attackSound": "Volley_Fire"
 	},
 	{
+		"name": "Carolean",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Sweden",
+		"movement": 2,
+		"strength": 29,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"promotions": ["[Carolean] ability"],
+		"uniques": ["Infantry"],
+		"attackSound": "Volley_Fire"
+	},
+	{
 		"name": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -300,21 +315,6 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Norwegian Ski Infantry] ability"],
-		"uniques": ["Infantry"],
-		"attackSound": "Volley_Fire"
-	},
-	{
-		"name": "Carolean",
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
-		"uniqueTo": "Sweden",
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Carolean] ability"],
 		"uniques": ["Infantry"],
 		"attackSound": "Volley_Fire"
 	},
