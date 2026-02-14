@@ -285,7 +285,7 @@
 				"uniques": ["Earn [+50]% of killed [Military] unit's [Strength] as [Gold]",
 				"Earn [+20]% of killed [Military] unit's [Strength] as [Science]",
 				"Heals [+10] damage if it kills a Unit",
-				"May capture killed [Barbarians] units <with [50]% chance>",
+				"May capture killed [Barbarians] units <with [5]% chance>",
 				"[+25]% XP gained from combat"],
 				"unitTypes": ["Cavalry Militia","Archery","Ranged Gunpowder","Anti Cavalry","Sword","Gunpowder","Mounted","Light Armored","Heavy Armored","Modern Armored","Armored","Militia"],
 		"column": 39,
