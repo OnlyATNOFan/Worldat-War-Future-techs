@@ -275,7 +275,7 @@
 		"promotions": ["[Carolean] ability"],
 		"uniques": ["Infantry"],
 		"attackSound": "Volley_Fire"
-	},,
+	},
 	{
 		"name": "Redcoat",
 		"unitType": "Gunpowder",
