@@ -129,15 +129,15 @@
 		"startYear": -4000,
 		"turns": [
 			{"yearsPerTurn": 12.5, "untilTurn": 120},
-			{"yearsPerTurn": 8, "untilTurn": 490},
-			{"yearsPerTurn": 4.2, "untilTurn": 692},
-			{"yearsPerTurn": 1.5, "untilTurn": 960},
-			{"yearsPerTurn": 0.75, "untilTurn": 1132},
-			{"yearsPerTurn": 0.5, "untilTurn": 1312},
-			{"yearsPerTurn": 0.25, "untilTurn": 1576},
-			{"yearsPerTurn": 0.125, "untilTurn": 1700},
-			{"yearsPerTurn": 0.1, "untilTurn": 2500},
-			{"yearsPerTurn": 0.083333, "untilTurn": 6000}
+			{"yearsPerTurn": 8, "untilTurn": 495},
+			{"yearsPerTurn": 4.25, "untilTurn": 695},
+			{"yearsPerTurn": 1.2, "untilTurn": 1030},
+			{"yearsPerTurn": 0.6, "untilTurn": 1245},
+			{"yearsPerTurn": 0.2, "untilTurn": 1695},
+			{"yearsPerTurn": 0.15, "untilTurn": 2135},
+			{"yearsPerTurn": 0.1, "untilTurn": 3435},
+			{"yearsPerTurn": 0.05, "untilTurn": 4000},
+			{"yearsPerTurn": 0.01014492753623188405797, "untilTurn": 8000}
 		]
 	}
 ]
