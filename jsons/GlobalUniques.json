@@ -7,7 +7,7 @@
 		"Rebel units may spawn <in [in annexed cities] cities> <every [8] turns>",
 		"Rebel units may spawn <in [in puppeted cities] cities> <every [12] turns>",
 		"Rebel units may spawn <every [20] turns> <with [20]% chance>",
-		"Rebel units may spawn <in cities with a [foreign] religion> <every [20] turns> <with [30]% chance>",
+		"Rebel units may spawn <in cities with a [enemy] religion> <every [20] turns> <with [30]% chance>",
 		"Rebel units may spawn <in cities with at least [5] [Unemployed]> <every [10] turns> <with [15]% chance>",
 		"Rebel units may spawn <in cities with at least [15] [Population]> <every [20] turns> <with [5]% chance>",
 		"Rebel units may spawn <during the [Renaissance era]> <every [15] turns> <with [10]% chance>",
