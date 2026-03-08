@@ -3,15 +3,15 @@
 	"uniques": [
 		"Rebel units may spawn <in [Razing] cities> <every [3] turns>",
 		"Rebel units may spawn <in [Resisting] cities> <every [6] turns>",
-		"Rebel units may spawn <in [Annexed] cities> <every [12] turns>",
-		"Rebel units may spawn <in [Puppeted] cities> <every [24] turns>",
+		"Rebel units may spawn <in [Annexed] cities> <every [12] turns> <with [20]% chance>",
+		"Rebel units may spawn <in [Puppeted] cities> <every [24] turns> <with [15]% chance>",
 		"Rebel units may spawn <when at war> <every [15] turns>",
 		"Rebel units may spawn <when below [0] [Food]> <every [5] turns> <in [All] cities>",
 		"Rebel units may spawn <every [20] turns> <with [20]% chance>",
 		"Rebel units may spawn <in cities with a [enemy] religion> <every [20] turns> <with [30]% chance>",
 		"Rebel units may spawn <in cities with at least [5] [Unemployed]> <every [10] turns> <with [15]% chance>",
 		"Rebel units may spawn <in cities with at least [15] [Population]> <every [20] turns> <with [5]% chance>",
-		"Rebel units may spawn <during the [Renaissance era]> <every [15] turns> <with [10]% chance>",
+		"Rebel units may spawn <during the [Renaissance era]> <every [28] turns> <with [10]% chance>",
 		"Rebel units may spawn <when below [0] [Gold]> <every [10] turns>"
 	]
 }
