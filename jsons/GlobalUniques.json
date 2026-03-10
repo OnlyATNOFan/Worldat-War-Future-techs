@@ -12,6 +12,7 @@
 		"Rebel units may spawn <in cities with at least [5] [Unemployed]> <every [10] turns> <with [15]% chance>",
 		"Rebel units may spawn <in cities with at least [15] [Population]> <every [20] turns> <with [5]% chance>",
 		"Rebel units may spawn <during the [Renaissance era]> <every [28] turns> <with [10]% chance>",
-		"Rebel units may spawn <when below [0] [Gold]> <every [10] turns>"
+		"Rebel units may spawn <when below [0] [Gold]> <every [10] turns>",
+		"Rebel units may spawn <when number of [Cities] is more than [[Militia] Units]> <every [50] turns>"
 	]
 }
