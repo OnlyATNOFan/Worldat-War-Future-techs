@@ -3,6 +3,98 @@
 		"name": "Heroes of the Past",
 		"type": "Pantheon",
 		"uniques": [
+			"[+1 Culture] from all [Culture] buildings"
 		]
 	},
+	{
+		"name": "National Sovereignty",
+		"type": "Founder",
+		"uniques": [
+			"[10]% [Gold] from City-States",
+			"Allied City-States will occasionally gift Great People"
+		]
+	},
+	{
+		"name": "Sacrifice for the Fatherland",
+		"type": "Follower",
+		"uniques": [
+			"[+2 Culture, +2 Happiness] from all [Faith] buildings",
+			"[+1 Culture, +1 Happiness] from all [Barracks] buildings"
+		]
+	},
+	{
+		"name": "",
+		"type": "Follower",
+		"uniques": [
+		]
+	},
+	{
+		"name": "Homefront",
+		"type": "Enhancer",
+		"uniques": [
+			"[+50]% Production when constructing [Militia] units [in cities following our religion]"
+		]
+	},
+	{
+		"name": "Proletarian Force",
+		"type": "Pantheon",
+		"uniques": [
+			"[+1 Production] [in this city] <in cities with [5] [Population]>",
+			"[+1 Production] from every specialist [in this city]"
+		]
+	},
+	{
+		"name": "",
+		"type": "Founder",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Follower",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Follower",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Enhancer",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Pantheon",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Founder",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Follower",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Follower",
+		"uniques": [
+		]
+	},
+	{
+		"name": "",
+		"type": "Enhancer",
+		"uniques": [
+		]
+	}
 ]
