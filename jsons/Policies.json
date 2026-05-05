@@ -58,7 +58,7 @@
 			"Scientific": 5
 		},
 		"uniques": [
-			"Only available <before adopting [Freedom]>","[+1 Happiness] per [2] population [in capital] <in cities with a [your] religion>","[-1 Happiness] per [6] population [in all cities] <in cities with a [enemy] religion>"
+			"Only available <before adopting [Freedom]>","[+1 Happiness] per [2] population [in capital] <in cities with a [your] religion>","[-1 Happiness] per [3] population [in all cities] <in cities with a [enemy] religion>","[-1 Happiness] per [6] population [in all cities] <in cities with a [your] religion>"
 		],
 		"policies": [
 			{
