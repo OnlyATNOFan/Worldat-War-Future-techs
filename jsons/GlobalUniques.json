@@ -1,7 +1,6 @@
 {
 	"name": "The resistance",
 	"uniques": [
-		"Rebel units may spawn <when number of [[Your] Cities] is more than [20]>",
 		"Rebel units may spawn <when at war>"
 	]
 }
