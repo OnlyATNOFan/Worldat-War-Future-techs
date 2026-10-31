@@ -23,12 +23,6 @@
 		]
 	},
 	{
-		"name": "",
-		"type": "Follower",
-		"uniques": [
-		]
-	},
-	{
 		"name": "Homefront",
 		"type": "Enhancer",
 		"uniques": [
@@ -41,60 +35,6 @@
 		"uniques": [
 			"[+1 Production] [in this city] <in cities with [5] [Population]>",
 			"[+1 Production] from every specialist [in this city]"
-		]
-	},
-	{
-		"name": "",
-		"type": "Founder",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Follower",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Follower",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Enhancer",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Pantheon",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Founder",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Follower",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Follower",
-		"uniques": [
-		]
-	},
-	{
-		"name": "",
-		"type": "Enhancer",
-		"uniques": [
 		]
 	}
 ]
